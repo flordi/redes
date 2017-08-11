@@ -1,6 +1,6 @@
 Si todo quedó correctamente configurado, podremos acceder a los recursos compartidos por el servidor Samba desde una máquina con el sistema Windows.
 
-## Accediendo a las carpetas compartidas de manera temporal
+## hola  Accediendo a las carpetas compartidas de manera temporal
 
 Para ello, tendremos que abrir con el explorador de Windows la dirección IP del servidor Samba (**usar barra invertida \**), de la siguiente manera: 
 
